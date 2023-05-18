@@ -1,10 +1,7 @@
+![](https://github.com/Abhaaay/Portfilio-git/blob/main/photo_2023-03-14_13-06-05.png)
 
-	 
-     ![](https://github.com/Abhaaay/Portfilio-git/blob/main/photo_2023-03-14_13-06-05.png)
-
-
-                        # РЕЗЮМЕ
-                # КИЯШКО АНДРЕЙ СЕРГЕЕВИЧ
+# РЕЗЮМЕ
+# КИЯШКО АНДРЕЙ СЕРГЕЕВИЧ
 
 Дата рождения: 13 марта  1988 г., 35 лет.
 
