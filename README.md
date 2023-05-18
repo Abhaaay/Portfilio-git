@@ -1,4 +1,4 @@
-![](https://github.com/Abhaaay/Portfilio-git/blob/main/photo_2023-03-14_13-06-05.png)
+![](photo_2023-03-14_13-06-05.png)
 
 # РЕЗЮМЕ
 # КИЯШКО АНДРЕЙ СЕРГЕЕВИЧ
